@@ -1,0 +1,5 @@
+{
+  "name": "ExpenseQuest",
+  "description": "A gamified, interactive personal expense tracker where budget is health and expenses deal damage.",
+  "requestFramePermissions": []
+}
